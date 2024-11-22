@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: helpme
+Version: 1.0.0
+Summary: A simple Python library to make learning terminal commands easy
+Author: Biplaw Debnath
+Author-email: biplawofficial@gmail.com
+License: MIT
+Project-URL: Source, https://github.com/biplawofficial/helpme
+Project-URL: Tracker, https://github.com/biplawofficial/helpme/issues
+Keywords: terminal commands,subprocess,models,learning CLI
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: subprocess-run
+
+# helpme

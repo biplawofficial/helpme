@@ -1,0 +1,2 @@
+[console_scripts]
+helpme = helpme.helpme:main

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+helpme/__init__.py
+helpme/helpme.py
+helpme.egg-info/PKG-INFO
+helpme.egg-info/SOURCES.txt
+helpme.egg-info/dependency_links.txt
+helpme.egg-info/entry_points.txt
+helpme.egg-info/requires.txt
+helpme.egg-info/top_level.txt
